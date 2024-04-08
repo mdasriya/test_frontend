@@ -26,6 +26,11 @@ This starter pack includes a basic setup for using **Tailwind CSS with React**. 
 
 The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
 
-## Contributing
+# Landing Page
+![Screenshot (30)](https://github.com/mdasriya/test_frontend/assets/110367868/878c4821-7acc-4f03-8bae-d1ec90ad7ee3)
 
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
+# Cart Page 
+![Screenshot (31)](https://github.com/mdasriya/test_frontend/assets/110367868/cb3b8e4b-0dc2-4000-939c-9625a0866050)
+
+# Payment Page
+![Screenshot (32)](https://github.com/mdasriya/test_frontend/assets/110367868/7e6a6fc2-3698-4789-bcfb-e1f23bd97ea3)
